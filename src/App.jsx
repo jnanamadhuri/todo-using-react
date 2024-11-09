@@ -1,9 +1,9 @@
-import Todo from "./components/todo"
+import Meals from "./components/meals"
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <Meals/>
     </div>
   )
 }
